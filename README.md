@@ -22,5 +22,3 @@ Gerador de Código Aleatório versátil que permite tanto a criação de código
 
 1. Clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador.
-
-## Tela de Início
